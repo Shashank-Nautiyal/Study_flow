@@ -1,0 +1,12 @@
+openai
+python-dotenv
+cognee
+fastapi
+uvicorn
+python-multipart
+youtube-transcript-api
+yt-dlp
+pydub
+requests
+beautifulsoup4
+pymupdf
